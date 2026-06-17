@@ -1,9 +1,6 @@
 # 크롤링 정리
 
 이 문서는 `crawler_competition.py`, `crawler_competition_multiple.py`, `crawler_musinsa.py`, `crawler_saramin.py`에서 사용한 코드를 바탕으로 크롤링의 기본 개념과 자주 쓰는 문법을 정리한 것이다.
-
-처음 크롤링을 공부하는 사람이 봐도 흐름을 이해할 수 있도록 용어 정의부터 정리한다.
-
 ## 1. 크롤링이란?
 
 크롤링은 웹사이트에 있는 데이터를 자동으로 가져오는 작업이다.
